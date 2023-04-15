@@ -6,7 +6,7 @@ Let's team up and tackle the world of coding together
 
 Hi, I'm Greg!
 I'm a young software and robotics engineer with a passion for learning, experimenting and creating innovative solutions to complex problems. 
-With [insert number of years] of experience in coding, I have developed a strong foundation in Python, C++, MATLAB and SolidWorks and am always looking to expand my skillset.
+With 4 years of experience in coding, I have developed a strong foundation in Python, C++, MATLAB and SolidWorks and am always looking to expand my skillset.
 
 
 Why Hire Me?
